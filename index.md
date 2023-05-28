@@ -10,17 +10,24 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# about this site
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This website is an unofficial quick reference guide to United States copyright law and fair use applications. It was created for TXTDS 503, a course about 20th century book publishing history, at the University of Washington.
 
-## Header 2
+This guide aims to inform humanities and information science scholars on the fair use of copyrighted material in the United States. In particular, this guide focuses on fair uses of physical material (e.g. books, poems, photographs, etc.) in order to avoid the murkier waters of born digital documents and fair use under the Digital Millennium Copyright Act (DMCA).
+
+This guide covers a brief history of U.S.C Title 17, the implementation of the four factors of fair use and relevent decisions that shaped their interpretation today, and common "copyright myths" that permeate pop culture and academia alike. This guide **is not** comprehensive and should be used as a starting point of intellectual property research.
+
+**DISCLAIMER:**
+
+
+# what is copyright?
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## a brief history of U.S.C. Title 17
 
 ```js
 // Javascript code with syntax highlighting.
@@ -37,19 +44,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+# fair use determinations
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+## the four factors of fair use
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+# common copyright myths
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
