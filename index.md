@@ -3,13 +3,7 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+-
 # about this site
 
 This website is an unofficial quick reference guide to United States copyright law and fair use applications. It was created for TXTDS 503, a course about 20th century book publishing history, at the University of Washington.
@@ -101,19 +95,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-# fair use determinations
+### list
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-## the four factors of fair use
+### list 2
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-# common copyright myths
+### list 3
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
