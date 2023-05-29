@@ -4,7 +4,13 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 -
-# about this site
+1. [about this site](#one)
+2. [what is copyright?](#two)
+3. [fair use](#three)
+4. [making a fair use determination](#four)
+5. [myths of copyright](#five)
+
+# <a name="one"></a>about this site
 
 This website is an unofficial quick reference guide to United States copyright law and fair use applications. It was created for TXTDS 503, a course about 20th century book publishing history, at the University of Washington.
 
@@ -18,7 +24,7 @@ Readers of this website should contact their attorney to obtain advice with resp
 
 The views expressed at, or through, this site are those of the individual authors writing in their individual capacities only. All liability with respect to actions taken or not taken based on the contents of this site are hereby expressly disclaimed.  The content on this posting is provided "as is;" no representations are made that the content is error-free.
 
-# what is copyright?
+# <a name="two"></a>what is copyright?
 
 According to the United States Copyright Office
 > Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression.
@@ -43,7 +49,7 @@ Current copyright terms vary widely depending on when and where the work was cre
 
 ### a brief history of U.S.C. Title 17
 
-# fair use
+# <a name="three"></a>fair use
 
 Everyone creates and uses copyrighted material. In order to use 
 
@@ -72,13 +78,13 @@ It is worth noting that some uses necessarily incorporate the entire work. Photo
 
 Every use carries some economic effect on the material. Fair use determinations require a general estimation of this impact, no matter how small. Although courts do not expect an estimated dollar amount on each use, they may expect some recognition of the economic significance. Individual personal use may be considered a very small effect, while facsimile reproductions or “bootlegs” may override the market altogether. Generally, generally smaller effects favor fair use.
 
-# making a fair use deteremination
+# <a name="four"></a>making a fair use deteremination
 
 Unlike other practices of law, in making a fair use determination users are tasked with evaluating their uses in the same method of the courts. Users must make a “good faith” determination using the four factors of fair use and, for academic or business purposes, document this decision making process.
 
 Fair use determinations are fact intensive: there is no fool-proof test, standard, or formula. A user, like a court, must reach a conclusion given the variables at hand. Courts may also make determinations given previous decisions from similar cases. If possible, academic or business users should consult with legal counsel or law librarians for more information.
 
-# common myths of copyright
+# <a name="five"></a>common myths of copyright
 
 ```js
 // Javascript code with syntax highlighting.
