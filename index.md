@@ -2,15 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
--
-1. [about this site](#one)
-2. [what is copyright?](#two)
-3. [fair use](#three)
-4. [making a fair use determination](#four)
-5. [myths of copyright](#five)
+# Contents
 
-# <a name="one"></a>about this site
+1. [about this site](#about)
+2. [what is copyright?](#copyright)
+3. [fair use](#fairuse)
+4. [making a fair use determination](#fairusedetermination)
+5. [common myths of copyright](#mythsofcopyright)
+
+# <a name="about"></a>about this site
 
 This website is an unofficial quick reference guide to United States copyright law and fair use applications. It was created for TXTDS 503, a course about 20th century book publishing history, at the University of Washington.
 
@@ -24,22 +24,24 @@ Readers of this website should contact their attorney to obtain advice with resp
 
 The views expressed at, or through, this site are those of the individual authors writing in their individual capacities only. All liability with respect to actions taken or not taken based on the contents of this site are hereby expressly disclaimed.  The content on this posting is provided "as is;" no representations are made that the content is error-free.
 
-# <a name="two"></a>what is copyright?
+[UW's real law librarians](https://lib.law.uw.edu/) would be happy to help you find more information!
+
+# <a name="copyright"></a>what is copyright?
 
 According to the United States Copyright Office
 > Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression.
 
 Copyright has two basic ingredients: originality and fixation.
 
-Originality is a particular expression of a “spark” of creativity [created by a human](https://www.lexisnexis.com/community/casebrief/p/casebrief-naruto-v-slater). Works that constitute originality may include novels, poems, paintings, blogs, comics, etc. Previous court cases did not afford copyright protection to some works on the basis that they are not creative, for example lists of ingredients, fonts, or facsimiles.
+Originality is a particular expression of a “spark” of creativity [created by a human](https://www.lexisnexis.com/community/casebrief/p/casebrief-naruto-v-slater). Works that constitute originality may include novels, poems, paintings, blogs, comics, etc. Previous court cases did not afford copyright protection to some works on the basis that they are not creative, for example [lists of ingredients](https://copyrightalliance.org/are-recipes-cookbooks-protected-by-copyright/), [fonts](https://www.ecfr.gov/current/title-37/chapter-II/subchapter-A/part-202/section-202.1), or [facsimile](https://ebrary.net/4214/law/facsimile_copies_public_domain_works_still_copyright).
 
-Fixation is the permanence of the work. The medium that carries the original expression must be sufficiently permanent to gain copyright protections. A painting is sufficiently permanent because the expression is fixed to the canvas. Alternatively, a garden is not sufficiently permanent because the expression changes with the growth or decay of the plants. Recent cases have reenergized legal theories surrounding fixation.
+Fixation is the permanence of the work. The medium that carries the original expression must be sufficiently permanent to gain copyright protections. A painting is sufficiently permanent because the expression is fixed to the canvas. Alternatively, [a garden is not sufficiently permanent](https://www.lexisnexis.com/community/casebrief/p/casebrief-kelley-v-chi-park-dist) because the expression changes with the growth or decay of the plants. Recent cases have reenergized legal theories surrounding fixation.
 
 Works in the public domain are not copyrighted and may be used by any one for any purpose. The public domain includes works created by federal, state, and local governments, works that have surpassed their copyright terms, and works made public by their creators. Some works under creative commons licenses are not in the public domain, however their creators permit anyone to use them as they would public domain works.
 
 ### copyrights
 
-Copyrights are the rights afforded to the holder of copyright. For example, the artist of an original painting has the right to sell reproduction for profits. Copyrights are often thought of as an economic benefit of creativity, however the rights pertain to the intellectual content of the work, not necessarily the financial draw.
+Copyrights are the rights afforded to the holder of copyright. For example, the artist of an original painting has the right to sell reproductions for profits. Copyrights are often thought of as an economic benefit of creativity, however the rights pertain to the intellectual content of the work, not necessarily the financial draw.
 
 Copyrighted material is sometimes licensed to users in exchange for a fee. The copyright holder retains the ownership of the material, but the licensee is able to use the work in limited instances.
 
@@ -49,7 +51,7 @@ Current copyright terms vary widely depending on when and where the work was cre
 
 ### a brief history of U.S.C. Title 17
 
-# <a name="three"></a>fair use
+# <a name="fairuse"></a>fair use
 
 Everyone creates and uses copyrighted material. In order to use 
 
@@ -62,44 +64,35 @@ U.S.C. Title 17 § 107 explicitly limits exclusive restrictions on copyrights by
 
 ### the purpose and character of use
 
-A user’s intention is an important consideration in fair use. Although the character of use is a fact-specific variable, general purposes include commercial, personal, or educational. This factor also encompasses transformative uses.
+A user’s intention is an important consideration in fair use. Although the character of use is a fact-specific variable, general purposes include commercial, personal, or educational. This factor also encompasses transformative uses.-
+
+A 2023 supreme court case radically altered previous interpretations of this factor. In [_Andy Warhol Foundation For the Visual Arts, Inc. v. Goldsmith et al._](https://www.supremecourt.gov/opinions/22pdf/21-869_87ad.pdf) the supreme court's 7-2 decision determined that a change in medium - in this case photography to painting - was not transformative. This is a major deparature from previous interpretations of transformation, for example [_Authors Guild v. Google_](https://law.justia.com/cases/federal/appellate-courts/ca2/13-4829/13-4829-2015-10-16.html).
 
 ### the nature of the copyrighted work
 
-Fair use also considers the kind of work and its content. The work may be creative, fact-based, or derived from sources in the public domain. Factual or public domain sources generally favors fair use, while use of creative works leans towards infringement.
+Fair use also considers the kind of work and its content. The work may be creative, fact-based, or derived from sources in the public domain. Factual or public domain sources generally favors fair use, while use of creative works leans towards infringement. Another component of this factor is whether or not the work is formally published or not. Unpublished works are still protected by copyright if they are original and fixed, however an author is free to leave their work unpublished if they so choose.
+
+In [_Salinger v. Random House, Inc._](https://www.lexisnexis.com/community/casebrief/p/casebrief-salinger-v-random-house-inc) the supreme court determined Salinger's unpublished correspondence was protected by copyright. Salinger effectively prevented a biographer from illicitly using his unpublished correspondance.
 
 ### the amount and substantiality of the worked used
 
 This factor weighs the amount of the material used against the whole. However, the factor is about both quantity and quality of use. The amount used is equally important as the significance of the portion used. A common misconception is that using a small portion of a work is automatically fair use, while using the entirety is not. On the contrary, previous decisions have determined uses as little as 1% of the whole are infringing, while others ruled using an entire work is fair. Courts may compare the content and extent used to the rest of the work.
 
-It is worth noting that some uses necessarily incorporate the entire work. Photographs, for example, are rarely dissected. Conversely, using the entirety of a novel may weigh heavily against fair use.
+It is worth noting that some uses necessarily incorporate the entire work. Photographs, for example, are rarely dissected. Conversely, using the entirety of a novel may weigh heavily against fair use.-
+
+[_Harper & Row v. Nation Enterprises_](https://www.law.cornell.edu/supremecourt/text/471/539) dispells the myth about quantity over quality in fair use. _The Nation_ magazine published excerpts from President Gerald Ford's memoir _A Time To Heal_ totaling less than 1% of the entire work. However, the portion used - concerning President Ford's pardon of President Nixon - was considered the "heart" of the book. The supreme court ruled that regardless of the quantity used, the subsantiality warranted infringement.
 
 ### the effect of use on the market
 
 Every use carries some economic effect on the material. Fair use determinations require a general estimation of this impact, no matter how small. Although courts do not expect an estimated dollar amount on each use, they may expect some recognition of the economic significance. Individual personal use may be considered a very small effect, while facsimile reproductions or “bootlegs” may override the market altogether. Generally, generally smaller effects favor fair use.
 
-# <a name="four"></a>making a fair use deteremination
+# <a name="fairusedetermination"></a>making a fair use determination
 
 Unlike other practices of law, in making a fair use determination users are tasked with evaluating their uses in the same method of the courts. Users must make a “good faith” determination using the four factors of fair use and, for academic or business purposes, document this decision making process.
 
 Fair use determinations are fact intensive: there is no fool-proof test, standard, or formula. A user, like a court, must reach a conclusion given the variables at hand. Courts may also make determinations given previous decisions from similar cases. If possible, academic or business users should consult with legal counsel or law librarians for more information.
 
-# <a name="five"></a>common myths of copyright
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# <a name="mythsofcopyright"></a>common myths of copyright
 
 ### list
 
@@ -111,16 +104,7 @@ end
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-### list 3
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+3.  This is an ordered list following a header.-
 
 ### There's a horizontal rule below this.
 
@@ -131,14 +115,7 @@ end
 *   Item foo
 *   Item bar
 *   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+*   Item zip-
 
 ### And a nested list:
 
@@ -155,15 +132,8 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+-
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### Definition lists can be used with HTML syntax.
 
