@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Contents
+# contents
 
 1. [about this site](#about)
 2. [what is copyright?](#copyright)
@@ -16,7 +16,7 @@ This website is an unofficial quick reference guide to United States copyright l
 
 This guide aims to inform humanities and information science scholars on the fair use of copyrighted material in the United States. In particular, this guide focuses on fair uses of physical material (e.g. books, poems, photographs, etc.) in order to avoid the murkier waters of born digital documents and fair use under the Digital Millennium Copyright Act (DMCA).
 
-The sections of this guide cover a brief history of U.S.C Title 17, the four factors of fair use and their implementation, relevant decisions that shaped their interpretation today, and common “copyright myths” that permeate pop culture and academia alike. This guide is not comprehensive and should be used as a starting point for intellectual property research.
+The sections of this site cover a brief history of U.S.C Title 17, the four factors of fair use and their implementation, relevant decisions that shaped their interpretation today, and common “copyright myths” that permeate pop culture and academia alike. This guide is not comprehensive and should be used only as a starting point for intellectual property research.
 
 **DISCLAIMER:** The information provided on this website does not, and is not intended to, constitute legal advice; instead, all information, content, and materials available on this site are for general informational purposes only.
 
@@ -28,7 +28,7 @@ The views expressed at, or through, this site are those of the individual author
 
 # <a name="copyright"></a>what is copyright?
 
-According to the United States Copyright Office
+According to the [United States Copyright Office](https://www.copyright.gov/what-is-copyright/)
 > Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression.
 
 Copyright has two basic ingredients: originality and fixation.
@@ -64,27 +64,29 @@ U.S.C. Title 17 § 107 explicitly limits exclusive restrictions on copyrights by
 
 ### the purpose and character of use
 
-A user’s intention is an important consideration in fair use. Although the character of use is a fact-specific variable, general purposes include commercial, personal, or educational. This factor also encompasses transformative uses.-
+A user’s intention is an important consideration in fair use. Although the character of use is a fact-specific variable, general purposes include commercial, personal, educational, or transformative. Past decisions have favored personal and educational uses as fair, while commercial uses are less likely fair. Transformative use justifications are highly interpretative and widely expanded since the 1990s. Judge Pierre Leval's essay ["Toward A Fair Use Standard"](https://www.jstor.org/stable/1341457) is widely considered a foundational text on transformative work.
 
 A 2023 supreme court case radically altered previous interpretations of this factor. In [_Andy Warhol Foundation For the Visual Arts, Inc. v. Goldsmith et al._](https://www.supremecourt.gov/opinions/22pdf/21-869_87ad.pdf) the supreme court's 7-2 decision determined that a change in medium - in this case photography to painting - was not transformative. This is a major deparature from previous interpretations of transformation, for example [_Authors Guild v. Google_](https://law.justia.com/cases/federal/appellate-courts/ca2/13-4829/13-4829-2015-10-16.html).
 
 ### the nature of the copyrighted work
 
-Fair use also considers the kind of work and its content. The work may be creative, fact-based, or derived from sources in the public domain. Factual or public domain sources generally favors fair use, while use of creative works leans towards infringement. Another component of this factor is whether or not the work is formally published or not. Unpublished works are still protected by copyright if they are original and fixed, however an author is free to leave their work unpublished if they so choose.
+Fair use also considers the kind of work and its content. The work may be creative, fact-based, or derived from sources in the public domain. Factual or public domain sources generally favors fair use, while use of creative works leans towards infringement. Another component of this factor is whether or not the work is formally published. Unpublished works are still protected by copyright if they are original and fixed, however an author is free to leave their work unpublished if they so choose.
 
 In [_Salinger v. Random House, Inc._](https://www.lexisnexis.com/community/casebrief/p/casebrief-salinger-v-random-house-inc) the supreme court determined Salinger's unpublished correspondence was protected by copyright. Salinger effectively prevented a biographer from illicitly using his unpublished correspondance.
 
-### the amount and substantiality of the worked used
+### the amount and substantiality of the work used
 
-This factor weighs the amount of the material used against the whole. However, the factor is about both quantity and quality of use. The amount used is equally important as the significance of the portion used. A common misconception is that using a small portion of a work is automatically fair use, while using the entirety is not. On the contrary, previous decisions have determined uses as little as 1% of the whole are infringing, while others ruled using an entire work is fair. Courts may compare the content and extent used to the rest of the work.
+This factor weighs the amount of the material used against the whole. However, the factor is about both quantity and quality of use. The amount used is equally important as the significance of the portion used. A common misconception is that using a small portion of a work is automatically fair use, while using the entirety is not. On the contrary, previous decisions have determined use of as little as 1% of the whole are infringing, while others ruled using an entire work is fair. Courts may compare the content and extent used to the rest of the work.
 
-It is worth noting that some uses necessarily incorporate the entire work. Photographs, for example, are rarely dissected. Conversely, using the entirety of a novel may weigh heavily against fair use.-
+It is worth noting that some uses necessarily incorporate the entire work. Photographs, for example, are rarely dissected. Conversely, using the entirety of a novel may weigh heavily against fair use.
 
 [_Harper & Row v. Nation Enterprises_](https://www.law.cornell.edu/supremecourt/text/471/539) dispells the myth about quantity over quality in fair use. _The Nation_ magazine published excerpts from President Gerald Ford's memoir _A Time To Heal_ totaling less than 1% of the entire work. However, the portion used - concerning President Ford's pardon of President Nixon - was considered the "heart" of the book. The supreme court ruled that regardless of the quantity used, the subsantiality warranted infringement.
 
 ### the effect of use on the market
 
-Every use carries some economic effect on the material. Fair use determinations require a general estimation of this impact, no matter how small. Although courts do not expect an estimated dollar amount on each use, they may expect some recognition of the economic significance. Individual personal use may be considered a very small effect, while facsimile reproductions or “bootlegs” may override the market altogether. Generally, generally smaller effects favor fair use.
+Every use carries some economic effect on the material. Fair use determinations require a general estimation of this impact, no matter how small. Although courts do not expect an estimated dollar amount on each use, they may expect some recognition of the economic significance. Individual personal use may be considered a very small effect, while facsimile reproductions or “bootlegs” may override the market altogether. Generally, smaller effects favor fair use.
+
+Although the National Football League suggests otherwise, recording a televised football game is technically not copyright infringement. Selling the copy would likely constitute infringemet, however, due to the effect on the market for sports entertainment. [In 2016 a man discovered a VHS copy of Super Bowl I, which was not permanently recorded, in his attic](https://www.nytimes.com/2016/02/03/sports/football/super-bowl-i-recording-broadcast-nfl-troy-haupt.html). Although he owns the recording he does not own the rights to the content, thus the only legal buyer would be the NFL. The NFL sent a cease and desist reminding him that, although he owns the recording, they own the content and he cannot sell it to any other party or they would raise suit.
 
 # <a name="fairusedetermination"></a>making a fair use determination
 
