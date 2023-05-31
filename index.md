@@ -53,7 +53,7 @@ Copyrighted material is sometimes [licensed](https://www.legalzoom.com/articles/
 Current copyright terms vary widely depending on when and where the work was created. All works published before 1928 are now in the public domain. For works published after 1978, the copyright term is 70 years plus the life of the creator. [Cornell's guide](https://guides.library.cornell.edu/copyright/publicdomain) features a helpful copyright term chart.
 
 ### a brief history of United States Code Title 17
-[U.S.C. Title 17](https://www.govinfo.gov/content/pkg/USCODE-2011-title17/html/USCODE-2011-title17.htm)
+
 
 - 1790
     - First federal copyright law enacted, modeled off England's _Statute of Anne_
@@ -88,7 +88,7 @@ Current copyright terms vary widely depending on when and where the work was cre
         - Photographs are more than a mechanical process; they are fixed artistic expression
 - 1891 - 1897
     - International works are protected by U.S. copyright
-    - [Government publications] are not copyrightable(https://en.wikipedia.org/wiki/Printing_Act_of_1895#:~:text=The%20Printing%20Act%20of%201895,distribution%20of%20U.S.%20Government%20documents.)
+    - [Government publications](https://en.wikipedia.org/wiki/Printing_Act_of_1895#:~:text=The%20Printing%20Act%20of%201895,distribution%20of%20U.S.%20Government%20documents) are not copyrightable
     - The Office of Copyright is established
 - 1903 - 1908
     - Commericial art protected
