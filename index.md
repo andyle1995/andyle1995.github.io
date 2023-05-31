@@ -9,14 +9,17 @@ layout: default
 3. [fair use](#fairuse)
 4. [making a fair use determination](#fairusedetermination)
 5. [common myths of copyright](#mythsofcopyright)
+6. [bibliography](#bibliography)
+
+* * *
 
 # <a name="about"></a>about this site
 
-This website is an unofficial quick reference guide to United States copyright law and fair use applications. It was created for TXTDS 503, a course about 20th century book publishing history, at the University of Washington.
+This website is an unofficial quick reference guide to United States copyright law and fair use applications. It was created for [TXTDS 503](https://frenchitalian.washington.edu/courses/2023/spring/txtds/503/a), a course about 20th century book publishing history, at the [University of Washington](https://www.washington.edu/).
 
-This guide aims to inform humanities and information science scholars on the fair use of copyrighted material in the United States. In particular, this guide focuses on fair uses of physical material (e.g. books, poems, photographs, etc.) in order to avoid the murkier waters of born digital documents and fair use under the Digital Millennium Copyright Act (DMCA).
+This guide aims to inform humanities and information science scholars on the fair use of copyrighted material in the United States. In particular, this guide focuses on fair uses of physical material (e.g. books, poems, photographs, etc.) in order to avoid the murkier waters of born digital documents and fair use under the [Digital Millennium Copyright Act (DMCA)](https://www.copyright.gov/legislation/dmca.pdf).
 
-The sections of this site cover a brief history of U.S.C Title 17, the four factors of fair use and their implementation, relevant decisions that shaped their interpretation today, and common “copyright myths” that permeate pop culture and academia alike. This guide is not comprehensive and should be used only as a starting point for intellectual property research.
+The sections of this site cover a brief history of [Title 17](https://www.govinfo.gov/content/pkg/USCODE-2011-title17/html/USCODE-2011-title17.htm), the four factors of fair use and their implementation, relevant decisions that shaped their interpretation today, and common “copyright myths” that permeate pop culture and academia alike. This guide is not comprehensive and should be used only as a starting point for intellectual property research.
 
 **DISCLAIMER:** The information provided on this website does not, and is not intended to, constitute legal advice; instead, all information, content, and materials available on this site are for general informational purposes only.
 
@@ -49,18 +52,24 @@ Copyrighted material is sometimes licensed to users in exchange for a fee. The c
 
 Current copyright terms vary widely depending on when and where the work was created. All works published before 1928 are now in the public domain. For works published after 1978, the copyright term is 70 years plus the life of the creator. [Cornell's guide](https://guides.library.cornell.edu/copyright/publicdomain) features a helpful copyright term chart.
 
-### a brief history of U.S.C. Title 17
+### a brief history of United States Code Title 17
+[U.S.C. Title 17](https://www.govinfo.gov/content/pkg/USCODE-2011-title17/html/USCODE-2011-title17.htm)
 
 # <a name="fairuse"></a>fair use
 
-Everyone creates and uses copyrighted material. In order to use 
+Everyone creates and uses copyrighted material. In order to use someone else's copyrighted material without infringing on their rights, in other word fairly, we must play by the rules. [Harvard Law](https://ogc.harvard.edu/pages/copyright-and-fair-use#:~:text=Fair%20use%20is%20the%20right,law%20is%20designed%20to%20foster.) explains
+> Fair use is the right to use a copyrighted work under certain conditions without permission of the copyright owner.
 
-U.S.C. Title 17 § 107 explicitly limits exclusive restrictions on copyrights by listing four elements of permitted uses. These are mostly commonly referred to as the four factors of fair use. They are:
+But what are the "certian conditions"?
+
+U.S.C. Title 17 § 107 explicitly limits exclusive restrictions on copyrights by listing four elements of permitted uses. These are most commonly referred to as the four factors of fair use. They are:
 
 1. the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes
 2. the nature of the copyrighted work
 3. the amount and substantiality of the portion used in relation to the copyrighted work as a whole
 4. the effect of the use upon the potential market for or value of the copyrighted work
+
+[§108](https://www.law.cornell.edu/uscode/text/17/108) further limits exclusive restrictions on copyrights by granting specific exemptions to non-profit libraries, archives, and educational institutions. This is not a loophole however. Non-profit educational institutions must still reach fair use determinations for their uses of copyrighted material.
 
 ### the purpose and character of use
 
@@ -76,7 +85,7 @@ In [_Salinger v. Random House, Inc._](https://www.lexisnexis.com/community/caseb
 
 ### the amount and substantiality of the work used
 
-This factor weighs the amount of the material used against the whole. However, the factor considers both _quantity_ and _quality_ of use. The amount used is equally important as the significance of the portion used. Some users erroneously believe that using a small portion of a work automatically constitutes fair use, while using the entirety is not. On the contrary, previous decisions have determined use of as little as 1% of the whole are infringing, while others ruled using an entire work is fair. Courts may compare the content and extent used to the rest of the work.
+This factor weighs the amount of the material used against the whole. However, the factor considers both _quantity_ and _quality_ of use. The amount used is equally important as the significance of the portion used. Some users erroneously believe that using a small portion of a work automatically constitutes fair use, while using the entirety is not. On the contrary, previous decisions have determined use of as little as 1% of the whole is infringing, while others ruled using an entire work is fair. Courts may compare the content and extent used to the rest of the work.
 
 It is worth noting that some uses necessarily incorporate the entire work. Photographs, for example, rarely appear in part. Conversely, using the entirety of a novel may weigh heavily against fair use.
 
@@ -96,64 +105,44 @@ Fair use determinations are fact intensive: there is no fool-proof test, standar
 
 # <a name="mythsofcopyright"></a>common myths of copyright
 
-### list
+### ideas are copyrightable
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**Myth:** "I am owed compensation by the person using an idea I had."
 
-### list 2
+A common misconception is that simply because we had an idea (a refigerator design, the plot of a good movie, a great salsa recipe) it is protected by copyright.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.-
+**False:** although ideas are a form of intellectual property, copyrighted material must be original and fixed. Ideas are not a fixed medium, and therefore cannot be copyrighted. [Regardless, many people still try](https://smallbusiness.chron.com/copyright-product-license-17856.html). Ideas are unprotected by copyright, but they may be possible to protect as a [trade secret](https://www.wipo.int/tradesecrets/en/) provided they are commercially valuable.
 
-### There's a horizontal rule below this.
+### the 30 second sample rule
 
-* * *
+**Myth:** "I can copy up to 30 seconds of a song before it is infrignment _or_ I can quote up to 200 words from a book before it is infringement."
 
-### Here is an unordered list:
+The 30 second sample rule originated in the hip hop and electronic music scenes. This urban legend is also known as a the 200 word rule, the 2 minute rule, or the 1% rule. Regardless of its name, the idea is the same: using a very small amount of a work automatically qualifies as fair use.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip-
+**False:** there is no "amount" of use that automatically qualifies it as fair. Courts frequently rule in favor of uses that use small amounts or as little as possible, however it is not a hard rule. As we see in Harper & Row v. Nation Enterprises, even uses totaling less than 1% of the entire work may still constitute infringment. This myth is likely the most pervasive, even appearing on [Wikipedia's style guide](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Music_samples#:~:text=maximum%20length%20permitted%3F-,Guidelines,reduced%20quality%20from%20the%20original.) and a [university's copyright guidelines page](https://lasierra.edu/library/copyright-fair-use-guidelines/).
 
-### And a nested list:
+### any academic use is fair use
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
--
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Myth:** "I can copy this sheet music as many times as I want as long as I only use it for my class."
 
-### Definition lists can be used with HTML syntax.
+Some education professional have taken the "education exempetion" to heart and believe any use for learning is fair.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+**False:**
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### altering a work is inherently transformative
 
-```
-The final element.
-```
+**Myth:** "If I alter my friend's assignment just enough, it isn't plagarism."
+
+This belief extends transformation in two ways: both as an easy threshold to overcome and as automatic fair use. A more _nuanced_ approach may consider artistic parody a "get out of jail free card" for fair use.
+
+**False:** Some interpretations of transformation in the first factor of fair use gave it the widest reach of fair use. However, alhough courts recognize fair use in these instances more, transformation is not a requisite for fair use. Even instances of genuine transformation may be infringing. In [_Warner Bros. v. RDR Books_](https://h2o.law.harvard.edu/cases/2007), the courts found that an online encylopedia's substantial additions and alterations to Rowling's Harry Potter did in constitute transformation. However, the substantial unaltered excerpts from the books were still infringing.
+
+### undefended copyright is forfeited
+
+**Myth:** "if I use someone's copyrighted material and they don't stop me, then it's fair use."
+
+Sometimes this is scalled the "rigorous defense" of copyright or trademarks. Some erroneously believe the letter of the law forces copyright or trademark holders to rigorously defend their rights lest they be lost.
+
+**False:** Although trademarks have a [three year abandonment clause](https://www.uspto.gov/trademarks/apply/reviving-abandoned-application), both copyrights and trademarks are active until the end of term [unless the holder explicity forfeits them](https://copyright.uslegal.com/2017/05/09/losswaiver-of-copyright-infringement-rights/). Generally it is a good idea for companies to police infringing uses of their material if they intend to market it, however it is not requisite for retaining legal intellectual control. 
+
+# <a name="bibliography"></a>bibliography
