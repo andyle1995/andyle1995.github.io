@@ -31,7 +31,7 @@ The views expressed at, or through, this site are those of the individual author
 
 # <a name="copyright"></a>what is copyright?
 
-According to the [United States Copyright Office](https://www.copyright.gov/what-is-copyright/)
+In the United States, federal copyright law is codified under [Title 17](https://www.govinfo.gov/content/pkg/USCODE-2011-title17/html/USCODE-2011-title17.htm) out 54 total titles. According to the [United States Copyright Office](https://www.copyright.gov/what-is-copyright/)
 > Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression.
 
 Copyright has two basic ingredients: originality and fixation.
@@ -40,13 +40,13 @@ Originality is a particular expression of a “spark” of creativity [created b
 
 Fixation is the permanence of the work. The medium that carries the original expression must be sufficiently permanent to gain copyright protections. A painting is sufficiently permanent because the expression is fixed to the canvas. Alternatively, [a garden is not sufficiently permanent](https://www.lexisnexis.com/community/casebrief/p/casebrief-kelley-v-chi-park-dist) because the expression changes with the growth or decay of the plants. Recent cases have reenergized legal theories surrounding fixation.
 
-Works in the public domain are not copyrighted and may be used by any one for any purpose. The public domain includes works created by federal, state, and local governments, works that have surpassed their copyright terms, and works made public by their creators. Some works under creative commons licenses are not in the public domain, however their creators permit anyone to use them as they would public domain works.
+[Works in the public domain](https://www.feedbooks.com/catalog/public_domain) are not copyrighted and may be used by any one for any purpose. The public domain includes works created by federal, state, and local governments, works that have surpassed their copyright terms, and works made public by their creators. Some works under creative commons licenses are not in the public domain, however their creators permit anyone to use them as they would public domain works.
 
 ### copyrights
 
 Copyrights are the rights afforded to the holder of copyright. For example, the artist of an original painting has the right to sell reproductions for profits. Copyrights are often thought of as an economic benefit of creativity, however the rights pertain to the intellectual content of the work, not necessarily the financial draw.
 
-Copyrighted material is sometimes licensed to users in exchange for a fee. The copyright holder retains the ownership of the material, but the licensee is able to use the work in limited instances.
+Copyrighted material is sometimes [licensed](https://www.legalzoom.com/articles/what-is-a-copyright-license) to users in exchange for a fee. The copyright holder retains the ownership of the material, but the licensee is able to use the work in limited instances.
 
 ### copyright terms
 
@@ -54,6 +54,81 @@ Current copyright terms vary widely depending on when and where the work was cre
 
 ### a brief history of United States Code Title 17
 [U.S.C. Title 17](https://www.govinfo.gov/content/pkg/USCODE-2011-title17/html/USCODE-2011-title17.htm)
+
+- 1790
+    - First federal copyright law enacted, modeled off England's _Statute of Anne_
+        - Protects books, maps, and charts for 14 years with an option to renew for an addition 14 years
+    - _The Philidelphia Spelling Book_ by John Berry is the first copyrighted work in the United States
+- 1802 - 1813
+    - Works outside the purview of the original law are registered
+        - prints
+        - etchings
+- 1831
+    - Congress revises the law
+        - Term increased to 28 years
+        - Music added
+- 1834
+    - [_Wheaton v. Peters_](https://supreme.justia.com/cases/federal/us/33/591/)
+        - Supreme Court documents are not copyrightable
+        - Adding commentary to Supreme Court documents is fair use and is copyrightable
+- 1855 - 1865
+    - First poem, _Leaves of Grass_ by Walt Whitman
+    - Dramatic works
+    - Photographs
+- 1870
+    - Congress again revises the law
+        - Adds artistic works
+        - Centralizes copyright administration in the Library of Congress
+- 1876
+    - The Statue of Liberty
+- 1879 - 1884
+    - [_Baker v. Seldon_](https://supreme.justia.com/cases/federal/us/101/99/)
+        - Ideas are not protected by copyright
+    - [_Burrow-Giles v. Sarony_](https://supreme.justia.com/cases/federal/us/111/53/)
+        - Photographs are more than a mechanical process; they are fixed artistic expression
+- 1891 - 1897
+    - International works are protected by U.S. copyright
+    - [Government publications] are not copyrightable(https://en.wikipedia.org/wiki/Printing_Act_of_1895#:~:text=The%20Printing%20Act%20of%201895,distribution%20of%20U.S.%20Government%20documents.)
+    - The Office of Copyright is established
+- 1903 - 1908
+    - Commericial art protected
+    - [_White-Smith v. Apollo_](https://supreme.justia.com/cases/federal/us/209/1/)
+        - Piano rolls are protected
+- 1909
+    - Copyright Act of 1909 enacted
+        - Term extended to 56 years
+- 1912 - 1917
+    - Motion pictures are protected
+    - _Black Sheep's Wool_(1912)copyrighted
+    - [_Herbert v. Shanley Co._](https://supreme.justia.com/cases/federal/us/242/591/)
+        - Music licensing established
+- 1954
+    - [_Mazer v. Stein_](https://supreme.justia.com/cases/federal/us/347/201/)
+        - Useful works (i.e. lamps) can be artistic
+- 1972
+    - Sound recordings protected
+        - Music from the Mother Church
+- 1976
+    - Copyright Act of 1976
+        - Radically expands copyright terms
+        - Extends protection to published and unpublished works
+- 1980 - 1984
+    - Computer programs are protectable
+    - [_Sony v. Universal Studios_](https://www.oyez.org/cases/1982/81-1687)
+        - Individual home recording is fair use
+    - Computer chips are protectable
+- 1990 - 1995
+    - States may infringe on copyrights under the 11th Amendment
+    - Architecture works are protectable
+    - Visual Arts are granted moral rights of attribution
+    - [_Feist v. Rural Telephone Service_](https://supreme.justia.com/cases/federal/us/499/340/)
+        - Copyrightable works musts contain originality
+    - Audio royalties introduced
+    - Digital performance rights for sound recordings
+- 1998
+    - Terms extended to the author's life plus 70 years
+    - Digital Millennium Copyright Act
+        - Creates civial and criminal penalties for overriding security on protected digital material
 
 # <a name="fairuse"></a>fair use
 
@@ -115,17 +190,17 @@ A common misconception is that simply because we had an idea (a refigerator desi
 
 ### the 30 second sample rule
 
-**Myth:** "I can copy up to 30 seconds of a song before it is infrignment _or_ I can quote up to 200 words from a book before it is infringement."
+**Myth:** "I can copy up to 30 seconds of a song before it is infrignment" _or_ "I can quote up to 200 words from a book before it is infringement."
 
 The 30 second sample rule originated in the hip hop and electronic music scenes. This urban legend is also known as a the 200 word rule, the 2 minute rule, or the 1% rule. Regardless of its name, the idea is the same: using a very small amount of a work automatically qualifies as fair use.
 
-**False:** there is no "amount" of use that automatically qualifies it as fair. Courts frequently rule in favor of uses that use small amounts or as little as possible, however it is not a hard rule. As we see in Harper & Row v. Nation Enterprises, even uses totaling less than 1% of the entire work may still constitute infringment. This myth is likely the most pervasive, even appearing on [Wikipedia's style guide](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Music_samples#:~:text=maximum%20length%20permitted%3F-,Guidelines,reduced%20quality%20from%20the%20original.) and a [university's copyright guidelines page](https://lasierra.edu/library/copyright-fair-use-guidelines/).
+**False:** there is no "amount" of use that automatically qualifies it as fair. Courts frequently rule in favor of uses that use small amounts or as little as possible, however it is not a hard rule. As we see in [_Harper & Row v. Nation Enterprises_](https://ogc.harvard.edu/pages/copyright-and-fair-use#:~:text=Fair%20use%20is%20the%20right,law%20is%20designed%20to%20foster.), even uses totaling less than 1% of the entire work may still constitute infringment. This myth is likely the most pervasive, even appearing on [Wikipedia's style guide](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Music_samples#:~:text=maximum%20length%20permitted%3F-,Guidelines,reduced%20quality%20from%20the%20original.) and a [university's copyright guidelines page](https://lasierra.edu/library/copyright-fair-use-guidelines/).
 
 ### any academic use is fair use
 
 **Myth:** "I can copy this sheet music as many times as I want as long as I only use it for my class."
 
-Some education professional have taken the "education exempetion" to heart and believe any use for learning is fair.
+Some education professionals have taken the "education exempetion" to heart and believe any use for learning is fair.
 
 **False:**
 
@@ -135,11 +210,11 @@ Some education professional have taken the "education exempetion" to heart and b
 
 This belief extends transformation in two ways: both as an easy threshold to overcome and as automatic fair use. A more _nuanced_ approach may consider artistic parody a "get out of jail free card" for fair use.
 
-**False:** Some interpretations of transformation in the first factor of fair use gave it the widest reach of fair use. However, alhough courts recognize fair use in these instances more, transformation is not a requisite for fair use. Even instances of genuine transformation may be infringing. In [_Warner Bros. v. RDR Books_](https://h2o.law.harvard.edu/cases/2007), the courts found that an online encylopedia's substantial additions and alterations to Rowling's Harry Potter did in constitute transformation. However, the substantial unaltered excerpts from the books were still infringing.
+**False:** Some interpretations of transformation in the first factor of fair use gave it the widest reach of fair use. However, alhough courts recognize fair use in these instances more, transformation is not a requisite for fair use. Even instances of genuine transformation may be infringing. In [_Warner Bros. v. RDR Books_](https://h2o.law.harvard.edu/cases/2007), the courts found that an online encylopedia's substantial additions and alterations to J.K. Rowling's _Harry Potter_ series did constitute transformation. However, the substantial unaltered excerpts from the books were still infringing.
 
 ### undefended copyright is forfeited
 
-**Myth:** "if I use someone's copyrighted material and they don't stop me, then it's fair use."
+**Myth:** "if I use someone's copyrighted material and they don't stop me, it's fair use."
 
 Sometimes this is scalled the "rigorous defense" of copyright or trademarks. Some erroneously believe the letter of the law forces copyright or trademark holders to rigorously defend their rights lest they be lost.
 
