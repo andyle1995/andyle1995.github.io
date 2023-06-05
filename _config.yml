@@ -1,5 +1,6 @@
 title: Fair Use Project
 logo: /assets/img/scale.png
-description: A U.S. copyright and fair use quick reference guide created for TXTDS 503 at the University of Washington.
+description: A U.S. copyright and fair use quick reference guide created for TXTDS 503 at the University of Washington. Image credit © 2008 Michael Brewer & ALA Office of Information Technology Policy, CC BY-NC-SA 3.0
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

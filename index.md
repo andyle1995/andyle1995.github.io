@@ -266,7 +266,7 @@ Sometimes this is called the "rigorous defense" of copyright or trademarks. Some
 8. “Baker v. Selden, 101 U.S. 99 (1879).” n.d. Justia Law. Accessed June 5, 2023. https://supreme.justia.com/cases/federal/us/101/99/.
 9. “Burrow-Giles Lithographic Company v. Sarony :: 111 U.S. 53 (1884) :: Justia US Supreme Court Center.” n.d. Accessed June 5, 2023. https://supreme.justia.com/cases/federal/us/111/53/.
 10. Caswell, M. L. 2021. ““’The Archive’ Is Not an Archives: On Acknowledging the Intellectual Contributions of Archival Studies”,” June. https://escholarship.org/uc/item/7bn4v1fk.
-11. “Chapter 1 - Circular 92 | U.S. Copyright Office.” n.d. Accessed June 5, 2023. https://www.copyright.gov/title17/92chap1.html#107.
+11. “Chapter 1 - Circular 92 U.S. Copyright Office.” n.d. Accessed June 5, 2023. https://www.copyright.gov/title17/92chap1.html#107.
 12. “Circular 15A  Duration of Copyright.” n.d.
 13. “Copyright and Fair Use.” n.d. Accessed June 5, 2023a. https://ogc.harvard.edu/pages/copyright-and-fair-use.
 14. “———.” n.d. Accessed June 5, 2023b. https://ogc.harvard.edu/pages/copyright-and-fair-use.
@@ -277,39 +277,39 @@ Sometimes this is called the "rigorous defense" of copyright or trademarks. Some
 19. Dryden, Jean. 2014. “The Role of Copyright in Selection for Digitization.” The American Archivist 77 (1): 64–95. https://doi.org/10.17723/aarc.77.1.3161547p1678423w.
 20. Eastland, James O, Estes Kefauver, Olin D Johnston, South Carolina, Thomas C Hennings, JOHN L McCLELLAN, Joseph C O’Mahoney, et al. n.d. “COMMITTEE ON THE JUDICIARY.”
 21. Ewing, Janet. n.d. “LibGuides: Copyright: Fair Use and The Four Factors Explained.” Accessed June 5, 2023. https://guides.mtholyoke.edu/copyright/fair-use.
-22. “Fair Use 101: Why Do We Need Fair Use? | Copyright Corner.” n.d. Accessed June 5, 2023. https://library.osu.edu/site/copyright/2014/02/17/fair-use-101-why-do-we-need-fair-use/.
+22. “Fair Use 101: Why Do We Need Fair Use? Copyright Corner.” n.d. Accessed June 5, 2023. https://library.osu.edu/site/copyright/2014/02/17/fair-use-101-why-do-we-need-fair-use/.
 23. “Fair Use: The 4 Factors Courts Consider in a Copyright Infringement Case.” n.d. Www.Nolo.Com. Accessed June 5, 2023. https://www.nolo.com/legal-encyclopedia/fair-use-the-four-factors.html.
 24. “Feist Publications, Inc. v. Rural Tel. Serv. Co., 499 U.S. 340 (1991).” n.d. Justia Law. Accessed June 5, 2023a. https://supreme.justia.com/cases/federal/us/499/340/.
 25. “———.” n.d. Justia Law. Accessed June 5, 2023b. https://supreme.justia.com/cases/federal/us/499/340/.
-26. “Five Common Fair Use Myths | Ohio State University Libraries.” n.d. Accessed June 5, 2023. https://library.osu.edu/news/five-common-fair-use-myths.
+26. “Five Common Fair Use Myths Ohio State University Libraries.” n.d. Accessed June 5, 2023. https://library.osu.edu/news/five-common-fair-use-myths.
 27. “Herbert v. Shanley Co., 242 U.S. 591 (1917).” n.d. Justia Law. Accessed June 5, 2023. https://supreme.justia.com/cases/federal/us/242/591/.
 28. “How to Copyright for a Product License.” n.d. Accessed June 5, 2023. https://smallbusiness.chron.com/copyright-product-license-17856.html.
 29. Inc, US Legal. n.d. “Loss/Waiver of Copyright Infringement Rights – Copyright.” Accessed June 5, 2023. https://copyright.uslegal.com/2017/05/09/losswaiver-of-copyright-infringement-rights/.
-30. “Kelley v. Chi. Park Dist. | Case Brief for Law School | LexisNexis.” n.d. Community. Accessed June 5, 2023. https://www.lexisnexis.com/community/casebrief/p/casebrief-kelley-v-chi-park-dist.
+30. “Kelley v. Chi. Park Dist. Case Brief for Law School LexisNexis.” n.d. Community. Accessed June 5, 2023. https://www.lexisnexis.com/community/casebrief/p/casebrief-kelley-v-chi-park-dist.
 31. Kopel, Matthew. n.d. “LibGuides: Copyright Services: Copyright Term and the Public Domain.” Accessed June 5, 2023a. https://guides.library.cornell.edu/copyright/publicdomain.
 32. ———. n.d. “LibGuides: Copyright Services: Copyright Term and the Public Domain.” Accessed June 5, 2023b. https://guides.library.cornell.edu/copyright/publicdomain.
 33. Lang, Courtney. 2021. “Are Recipes and Cookbooks Protected by Copyright?” Copyright Alliance (blog). March 9, 2021. https://copyrightalliance.org/are-recipes-cookbooks-protected-by-copyright/.
 34. Leval, Pierre N. 1990. “Toward a Fair Use Standard.” Harvard Law Review 103 (5): 1105–36. https://doi.org/10.2307/1341457.
 35. “Mapping Language - Mapping Language.” n.d. Accessed June 2, 2023. https://aweymo.github.io/mappinglanguage/.
 36. “Mazer v. Stein, 347 U.S. 201 (1954).” n.d. Justia Law. Accessed June 5, 2023. https://supreme.justia.com/cases/federal/us/347/201/.
-37. Mazumdar, Anandashankar. 2020. “Historic Court Cases That Helped Shape Scope of Copyright Protections | Copyright.” Webpage. The Library of Congress. September 9, 2020. //blogs.loc.gov/copyright/2020/09/historic-court-cases-that-helped-shape-scope-of-copyright-protections.
-38. “Naruto v. Slater | Case Brief for Law School | LexisNexis.” n.d. Community. Accessed June 5, 2023. https://www.lexisnexis.com/community/casebrief/p/casebrief-naruto-v-slater.
+37. Mazumdar, Anandashankar. 2020. “Historic Court Cases That Helped Shape Scope of Copyright Protections Copyright.” Webpage. The Library of Congress. September 9, 2020. //blogs.loc.gov/copyright/2020/09/historic-court-cases-that-helped-shape-scope-of-copyright-protections.
+38. “Naruto v. Slater  Case Brief for Law School  LexisNexis.” n.d. Community. Accessed June 5, 2023. https://www.lexisnexis.com/community/casebrief/p/casebrief-naruto-v-slater.
 39. “Public Domain Books.” n.d. Accessed June 5, 2023. https://www.feedbooks.com/catalog/public_domain.
 40. “Reviving an Abandoned Application.” n.d. Text. Accessed June 5, 2023. https://www.uspto.gov/trademarks/apply/reviving-abandoned-application.
-41. “Salinger v. Random House, Inc. | Case Brief for Law School | LexisNexis.” n.d. Community. Accessed June 5, 2023. https://www.lexisnexis.com/community/casebrief/p/casebrief-salinger-v-random-house-inc.
+41. “Salinger v. Random House, Inc. Case Brief for Law School LexisNexis.” n.d. Community. Accessed June 5, 2023. https://www.lexisnexis.com/community/casebrief/p/casebrief-salinger-v-random-house-inc.
 42. Sandomir, Richard. 2016. “Out of a Rare Super Bowl I Recording, a Clash With the N.F.L. Unspools.” The New York Times, February 2, 2016, sec. Sports. https://www.nytimes.com/2016/02/03/sports/football/super-bowl-i-recording-broadcast-nfl-troy-haupt.html.
 43. “Sony Corporation of America v. Universal City Studios, Inc.” n.d. Oyez. Accessed June 5, 2023. https://www.oyez.org/cases/1982/81-1687.
 44. “Ten Common Copyright Myths and Misconceptions :” n.d. Copyright Witness. Accessed June 5, 2023. https://copyrightwitness.com/copyright/copyright_myths.
 45. “The Digital Millennium Copyright Act of 1998.” 1998.
 46. “The Rationale of Hypertext.” n.d. Accessed June 2, 2023. http://www2.iath.virginia.edu/public/jjm2f/rationale.html#1.
-47. “Timeline | U.S. Copyright Office.” n.d. Accessed June 5, 2023. https://copyright.gov/timeline/.
+47. “Timeline U.S. Copyright Office.” n.d. Accessed June 5, 2023. https://copyright.gov/timeline/.
 48. “Trade Secrets – Everything You Need to Know.” n.d. Accessed June 5, 2023. https://www.wipo.int/tradesecrets/en/.
 49. “Transformative Use and Copyright Infringement Lawsuits.” 2019. Justia. June 5, 2019. https://www.justia.com/intellectual-property/copyright/fair-use/transformative-use/.
 50. “U.S.C. Title 17 - COPYRIGHTS.” n.d. Accessed June 5, 2023. https://www.govinfo.gov/content/pkg/USCODE-2011-title17/html/USCODE-2011-title17.htm.
-51. “Warner Bros. Entm’t Inc. v. RDR Books | Case Brief for Law School | LexisNexis.” n.d. Community. Accessed June 5, 2023. https://www.lexisnexis.com/community/casebrief/p/casebrief-warner-bros-entm-t-inc-v-rdr-books.
+51. “Warner Bros. Entm’t Inc. v. RDR Books Case Brief for Law School LexisNexis.” n.d. Community. Accessed June 5, 2023. https://www.lexisnexis.com/community/casebrief/p/casebrief-warner-bros-entm-t-inc-v-rdr-books.
 52. Wharton, Robin. 2013. “Digital Humanities, Copyright Law, and the Literary.” Digital Humanities Quarterly 007 (1).
 53. “What Is a Copyright License?” 2023. May 11, 2023. https://www.legalzoom.com/articles/what-is-a-copyright-license.
-54. “What Is Copyright? | U.S. Copyright Office.” n.d. Accessed June 5, 2023. https://www.copyright.gov/what-is-copyright/.
+54. “What Is Copyright? U.S. Copyright Office.” n.d. Accessed June 5, 2023. https://www.copyright.gov/what-is-copyright/.
 55. “Wheaton v. Peters, 33 U.S. 591 (1834).” n.d. Justia Law. Accessed June 5, 2023. https://supreme.justia.com/cases/federal/us/33/591/.
 56. “White-Smith Music Pub. Co. v. Apollo Co., 209 U.S. 1 (1908).” n.d. Justia Law. Accessed June 5, 2023. https://supreme.justia.com/cases/federal/us/209/1/.
 57. “Wikipedia:Manual of Style/Music Samples.” 2023. In Wikipedia. https://en.wikipedia.org/w/index.php?title=Wikipedia:Manual_of_Style/Music_samples&oldid=1156118373.
